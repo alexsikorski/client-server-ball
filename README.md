@@ -1,0 +1,2 @@
+# socket-based-client-server-ball-game-JAVA
+The assignment is to build a socket-based client-server system to play a  virtual  ball.    Each  client  application  is  a  player.    Once  a  player  re-ceives a ball, it promptsthe user whom to pass the ball to.  The clients can connect and disconnect from the server at any time.You  will  need  to  implement  two  versions of  each  of  the  server  and the client applications: in C# and in Java.  All these applications have to work witheach other seamlessly.
